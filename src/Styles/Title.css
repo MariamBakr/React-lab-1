@@ -1,0 +1,20 @@
+
+/* h1{
+    font-size: 200px;
+} */
+.bg{
+    background-color: #2b3442;
+}
+.navy{
+    color:#2b3442;
+}
+.progress-bar{
+    background-color: #2b3442 !important;
+}
+img{
+    width:440px;
+}
+#render{
+    margin-right: -70px;
+}
+
